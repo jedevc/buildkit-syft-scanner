@@ -1,0 +1,17 @@
+{
+  "_type": "https://in-toto.io/Statement/v0.1",
+  "predicateType": "https://spdx.dev/Document",
+  "predicate": {
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "packages": [
+      {
+        "name": "github.com/spf13/cobra"
+      }
+    ],
+    "files": [
+      {
+        "fileName": "/bin/app"
+      }
+    ]
+  }
+}
